@@ -7,3 +7,6 @@
 
 varaible.tf --> declar variable and set default
  .tfvars --> set the value for the variables
+ 
+ ![image](https://user-images.githubusercontent.com/12657295/191316130-246b2441-fa15-49d2-8f72-193f28da9f19.png)
+
